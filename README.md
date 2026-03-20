@@ -33,6 +33,9 @@ Database
 
 MySQL / PostgreSQL
 
+## 📁 Project Structure
+
+```text
 voltex/
 │
 ├── ecommerce-frontend/                # Next.js frontend application
@@ -85,6 +88,7 @@ voltex/
 │   └── mvnw.cmd
 │
 └── README.md
+```
 🧭 System Architecture
 [ Next.js Frontend ]
         │
