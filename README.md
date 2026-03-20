@@ -33,21 +33,19 @@ Database
 
 MySQL / PostgreSQL
 
-📁 Project Structure
 voltex/
 │
-├── ecommerce-frontend/                 # Next.js frontend application
-│   │
-│   ├── public/                         # Static assets
+├── ecommerce-frontend/                # Next.js frontend application
+│   ├── public/                        # Static assets
 │   │
 │   ├── src/
-│   │   ├── app/                        # App Router pages & layouts
-│   │   │   ├── layout.js               # Root layout
-│   │   │   ├── page.js                 # Landing / login page
+│   │   ├── app/                       # App Router pages & layouts
+│   │   │   ├── layout.js              # Root layout
+│   │   │   ├── page.js                # Landing / login page
 │   │   │   │
-│   │   │   └── dashboard/              # Admin dashboard routes
+│   │   │   └── dashboard/             # Admin dashboard routes
 │   │   │       ├── layout.js
-│   │   │       ├── page.js             # Overview dashboard
+│   │   │       ├── page.js            # Overview dashboard
 │   │   │       ├── products/page.js
 │   │   │       ├── orders/page.js
 │   │   │       ├── cart/page.js
@@ -57,26 +55,25 @@ voltex/
 │   │   │       ├── inventory/page.js
 │   │   │       └── warehouse/page.js
 │   │   │
-│   │   └── components/                 # Reusable React components
+│   │   └── components/                # Reusable React components
 │   │       └── Navbar.js
 │   │
 │   ├── tailwind.config.js
 │   ├── next.config.js
-│   ├── package.json
-│   └── postcss.config.js
+│   ├── postcss.config.js
+│   └── package.json
 │
-│
-├── ecommerce-backend/                  # Spring Boot backend service
+├── ecommerce-backend/                 # Spring Boot backend service
 │   │
 │   ├── src/main/java/
 │   │   └── com/voltex/
-│   │       ├── controller/             # REST controllers
-│   │       ├── service/                # Service interfaces
-│   │       ├── service/impl/           # Service implementations
-│   │       ├── repository/             # JPA repositories
-│   │       ├── entity/                 # Database entities
-│   │       ├── dto/                    # Request/response DTOs
-│   │       └── config/                 # Security & configuration
+│   │       ├── controller/            # REST controllers
+│   │       ├── service/               # Service interfaces
+│   │       ├── service/impl/          # Service implementations
+│   │       ├── repository/            # JPA repositories
+│   │       ├── entity/                # Database entities
+│   │       ├── dto/                   # Request/response DTOs
+│   │       └── config/                # Security & configuration
 │   │
 │   ├── src/main/resources/
 │   │   ├── application.properties
