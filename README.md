@@ -89,7 +89,9 @@ voltex/
 │
 └── README.md
 ```
-🧭 System Architecture
+## 🧭 System Architecture
+
+```text
 [ Next.js Frontend ]
         │
         │ HTTP / JSON
@@ -98,6 +100,7 @@ voltex/
         │
         ▼
 [ Relational Database ]
+```
 
 This architecture ensures:
 
