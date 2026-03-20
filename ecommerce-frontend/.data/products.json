@@ -1,0 +1,10 @@
+[
+  { "_id": "prod-001", "name": "Running Shoes Pro", "category": "Footwear", "price": 2499, "description": "Lightweight performance running shoes", "stock": 120, "createdAt": "2026-01-10T08:00:00.000Z" },
+  { "_id": "prod-002", "name": "Wireless Earbuds X1", "category": "Electronics", "price": 1899, "description": "True wireless stereo earbuds with noise cancellation", "stock": 85, "createdAt": "2026-01-12T09:00:00.000Z" },
+  { "_id": "prod-003", "name": "Laptop Stand Adjustable", "category": "Accessories", "price": 899, "description": "Ergonomic aluminum laptop stand", "stock": 200, "createdAt": "2026-01-14T10:00:00.000Z" },
+  { "_id": "prod-004", "name": "Premium Yoga Mat", "category": "Sports", "price": 649, "description": "Non-slip 6mm thick yoga mat", "stock": 300, "createdAt": "2026-01-15T11:00:00.000Z" },
+  { "_id": "prod-005", "name": "Smart Coffee Maker", "category": "Appliances", "price": 3299, "description": "WiFi-enabled programmable coffee maker", "stock": 45, "createdAt": "2026-01-18T12:00:00.000Z" },
+  { "_id": "prod-006", "name": "Mechanical Keyboard TKL", "category": "Electronics", "price": 3999, "description": "Tenkeyless mechanical keyboard with RGB", "stock": 60, "createdAt": "2026-01-20T13:00:00.000Z" },
+  { "_id": "prod-007", "name": "Leather Wallet Slim", "category": "Accessories", "price": 499, "description": "Genuine leather minimalist wallet", "stock": 500, "createdAt": "2026-01-22T14:00:00.000Z" },
+  { "_id": "prod-008", "name": "Resistance Band Set", "category": "Sports", "price": 399, "description": "Set of 5 resistance bands with carry bag", "stock": 250, "createdAt": "2026-01-24T15:00:00.000Z" }
+]

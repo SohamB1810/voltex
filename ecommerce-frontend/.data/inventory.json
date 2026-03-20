@@ -1,0 +1,10 @@
+[
+  { "_id": "inv-001", "productName": "Running Shoes Pro", "category": "Footwear", "stockQuantity": 120, "productId": "prod-001", "createdAt": "2026-01-10T08:00:00.000Z" },
+  { "_id": "inv-002", "productName": "Wireless Earbuds X1", "category": "Electronics", "stockQuantity": 85, "productId": "prod-002", "createdAt": "2026-01-12T09:00:00.000Z" },
+  { "_id": "inv-003", "productName": "Laptop Stand Adjustable", "category": "Accessories", "stockQuantity": 8, "productId": "prod-003", "createdAt": "2026-01-14T10:00:00.000Z" },
+  { "_id": "inv-004", "productName": "Premium Yoga Mat", "category": "Sports", "stockQuantity": 300, "productId": "prod-004", "createdAt": "2026-01-15T11:00:00.000Z" },
+  { "_id": "inv-005", "productName": "Smart Coffee Maker", "category": "Appliances", "stockQuantity": 5, "productId": "prod-005", "createdAt": "2026-01-18T12:00:00.000Z" },
+  { "_id": "inv-006", "productName": "Mechanical Keyboard TKL", "category": "Electronics", "stockQuantity": 60, "productId": "prod-006", "createdAt": "2026-01-20T13:00:00.000Z" },
+  { "_id": "inv-007", "productName": "Leather Wallet Slim", "category": "Accessories", "stockQuantity": 0, "productId": "prod-007", "createdAt": "2026-01-22T14:00:00.000Z" },
+  { "_id": "inv-008", "productName": "Resistance Band Set", "category": "Sports", "stockQuantity": 250, "productId": "prod-008", "createdAt": "2026-01-24T15:00:00.000Z" }
+]

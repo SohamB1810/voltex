@@ -1,0 +1,54 @@
+[
+  {
+    "id": "9da4f79d-30b3-4aa4-ab36-23931b0bb5b6",
+    "name": "Admin",
+    "email": "admin@voltex.com",
+    "password": "admin123",
+    "role": "ADMIN",
+    "createdAt": "2026-03-19T12:50:44.239Z"
+  },
+  {
+    "id": "bf233cec-7e7e-4f12-87c1-8cb9760ac7a2",
+    "name": "Worker",
+    "email": "worker@voltex.com",
+    "password": "worker123",
+    "role": "WORKER",
+    "createdAt": "2026-03-19T12:54:41.663Z"
+  },
+  {
+    "id": "901fef96-72ac-4de4-9949-ed8588021656",
+    "name": "Customer",
+    "email": "customer@voltex.com",
+    "password": "cust123",
+    "role": "CUSTOMER",
+    "createdAt": "2026-03-19T12:54:41.673Z"
+  },
+  {
+    "id": "8bc3da7f-60b1-4838-90d6-4f24c21cebc2",
+    "name": "Soham",
+    "email": "sohambiswas1810@gmail.com",
+    "password": null,
+    "role": "WORKER",
+    "provider": "google",
+    "createdAt": "2026-03-19T14:48:24.394Z",
+    "updatedAt": "2026-03-20T16:05:50.129Z"
+  },
+  {
+    "id": "94f39ada-30d7-46a1-9289-1ddaa0098242",
+    "name": "Bidisha Biswas",
+    "email": "bidishabiswas277@gmail.com",
+    "password": null,
+    "role": "CUSTOMER",
+    "provider": "google",
+    "createdAt": "2026-03-19T14:58:46.868Z"
+  },
+  {
+    "id": "e936427e-655d-4d24-8c31-152e123650a5",
+    "name": "Soham biswas",
+    "email": "bidishabiswas62@gmail.com",
+    "password": null,
+    "role": "CUSTOMER",
+    "provider": "google",
+    "createdAt": "2026-03-20T16:05:15.532Z"
+  }
+]

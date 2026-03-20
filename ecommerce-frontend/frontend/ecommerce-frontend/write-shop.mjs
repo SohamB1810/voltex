@@ -1,0 +1,1 @@
+﻿import { writeFileSync, mkdirSync } from 'fs'; mkdirSync('src/app/shop/cart', { recursive: true }); mkdirSync('src/app/warehouse', { recursive: true }); console.log('done');
